@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange)](https://jupyter.org/)
-[![Dependencies](https://img.shields.io/badge/dependencies-%E2%89%A4-9-brightgreen)](requirements.txt)
 [![Data Rows](https://img.shields.io/badge/data-541909%20rows-lightgrey)](#dataset)
 
 ## ✨ Overview
