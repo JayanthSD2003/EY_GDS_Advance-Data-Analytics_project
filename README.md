@@ -166,9 +166,20 @@ These artifacts include:
 
 ### Output Gallery
 
-![Segment visualization](Output Shots/Screenshot 2024-06-18 212352.png)
-![Cluster analysis](Output Shots/Screenshot 2024-06-18 213048.png)
-![Notebook output](Output Shots/Screenshot 2024-06-18 213302.png)
+<figure>
+  <img src="Output Shots/Screenshot 2024-06-18 212352.png" alt="Segment visualization" width="280" />
+  <figcaption>Customer segment visualization and cluster mapping.</figcaption>
+</figure>
+
+<figure>
+  <img src="Output Shots/Screenshot 2024-06-18 213048.png" alt="Cluster analysis" width="280" />
+  <figcaption>Cluster evaluation and comparison of segment characteristics.</figcaption>
+</figure>
+
+<figure>
+  <img src="Output Shots/Screenshot 2024-06-18 213302.png" alt="Notebook output" width="280" />
+  <figcaption>Notebook output panel showing analysis steps and results.</figcaption>
+</figure>
 
 > Note: Additional images are available in the `Output Shots` folder for more analysis views.
 
