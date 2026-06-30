@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+python1.ipynb
+python5.ipynb
+p8 example.ipynb
+.DS_Store
