@@ -164,6 +164,14 @@ These artifacts include:
 - cluster evaluation plots
 - notebook run output captures
 
+### Output Gallery
+
+![Segment visualization](Output Shots/Screenshot 2024-06-18 212352.png)
+![Cluster analysis](Output Shots/Screenshot 2024-06-18 213048.png)
+![Notebook output](Output Shots/Screenshot 2024-06-18 213302.png)
+
+> Note: Additional images are available in the `Output Shots` folder for more analysis views.
+
 ## 📈 Results and Insights
 
 The main notebook builds customer segments that can be used for:
@@ -193,4 +201,8 @@ Possible next steps:
 
 ## 📜 License
 
-Add a license file if you want to make this project reusable by others.
+This project is licensed under the **Apache License 2.0**. See the `LICENSE` file for full terms and conditions.
+
+The notebook code, analysis pipeline, and documentation are covered by this license.
+
+> Note: The dataset is included here as part of the analysis and should be used in accordance with any applicable data sharing policies.
