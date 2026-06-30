@@ -150,7 +150,19 @@ jupyter notebook EY_GDS_Edunet_P8_final.ipynb
 
 - `EY_GDS_Edunet_P8_final.ipynb` — main production notebook with full customer segmentation workflow
 - `customer_data_internship.csv` — customer transaction dataset
+- `customer_clusters_3d.html` — exported cluster visualization output
+- `Output Shots/` — visual output artifacts and screenshots from the analysis
 - `requirements.txt` — Python dependency list
+
+## 🖼️ Output Artifacts
+
+The `Output Shots` folder contains screenshots and visual artifacts showing the notebook execution, cluster visualizations, and key result panels.
+
+These artifacts include:
+
+- customer segment visualization screenshots
+- cluster evaluation plots
+- notebook run output captures
 
 ## 📈 Results and Insights
 
